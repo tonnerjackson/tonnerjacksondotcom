@@ -1,0 +1,39 @@
+header {
+  display: flex;
+  height: 100vh;
+  background-color: tomato;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-social {
+ text-align: center;
+}
+
+.home-blog-navigation {
+  text-align: center;
+  background-color: #4ABDAC;
+  display: inline-block;
+  align-content: center;
+}
+
+.container {
+  text-align: center;
+  width: 100%;
+  padding-top: 10px;
+}
+.btn-blog{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  background-color: #4abeab; /* Canva Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-transform: uppercase;
+  border-radius: 5px;
+  font-weight: 600;
+}
